@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Soul · Memory",
+    "description": "Durable cross-session memory for the agent: a per-turn recall block that fades along an Ebbinghaus forgetting curve, and an idle auto-continue hook (gated by a DeepSeek balance floor) that re-raises abandoned tasks. Memory is plain markdown under <home>/soul/ that you can read, edit, or wipe by hand. Configure under Settings → Soul · Memory."
+  }
+}

@@ -1,0 +1,10 @@
+node_modules/
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+# runtime artifacts: the plugin writes memory + dashboard under ~/.dsh/soul, never into the repo
+dashboard.html
+prefs.json
+facts.faded.md
+*.faded.md
